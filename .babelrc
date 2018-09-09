@@ -1,0 +1,10 @@
+{
+    "plugins": ["./static-inserter.js"],
+    "presets": [
+        ["@babel/preset-env", {
+            "targets": {
+                "chrome": "58"
+            }
+        }]
+    ]
+  }
