@@ -129,3 +129,163 @@
 {"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T11:00:48.630Z"}
 {"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T11:00:48.631Z"}
 {"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T11:00:48.632Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T18:54:58.239Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T18:54:58.242Z"}
+{"level":"info","message":"Optional ./WebComponent.css not found, so neglecting css file.","timestamp":"2018-09-09T18:54:58.243Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:54:58.277Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T18:54:58.754Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T18:54:58.755Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T18:54:58.756Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:54:58.757Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T18:55:30.120Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T18:55:30.123Z"}
+{"level":"info","message":"Optional ./WebComponent.css not found, so neglecting css file.","timestamp":"2018-09-09T18:55:30.125Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:55:30.131Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T18:55:30.249Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T18:55:30.250Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T18:55:30.251Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:55:30.253Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T18:55:55.143Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T18:55:55.146Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T18:55:55.147Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:55:55.153Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T18:55:55.271Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T18:55:55.272Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T18:55:55.273Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:55:55.274Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T18:56:51.126Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T18:56:51.129Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T18:56:51.129Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:56:51.135Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T18:56:51.255Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T18:56:51.255Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T18:56:51.255Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:56:51.256Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T18:59:56.829Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T18:59:56.832Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T18:59:56.834Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:59:56.840Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T18:59:56.964Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T18:59:56.965Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T18:59:56.966Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T18:59:56.967Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:10:41.117Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:10:41.120Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:10:41.122Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:10:41.128Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:10:41.250Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:10:41.250Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:10:41.251Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:10:41.252Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:11:33.111Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:11:33.113Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:11:33.114Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:11:33.120Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:11:33.237Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:11:33.237Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:11:33.237Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:11:33.238Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:12:04.728Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:12:04.730Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:12:04.731Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:12:04.737Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:12:04.855Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:12:04.855Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:12:04.855Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:12:04.856Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:12:53.751Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:12:53.754Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:12:53.756Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:12:53.762Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:12:53.879Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:12:53.880Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:12:53.881Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:12:53.881Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:16:20.772Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:16:20.775Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:16:20.776Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:16:20.782Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:16:20.900Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:16:20.901Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:16:20.901Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:16:20.901Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:16:49.812Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:16:49.816Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:16:49.817Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:16:49.824Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:16:49.945Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:16:49.946Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:16:49.947Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:16:49.947Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:18:51.485Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:18:51.488Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:18:51.489Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:18:51.495Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:18:51.615Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:18:51.616Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:18:51.616Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:18:51.617Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:25:52.363Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:25:52.366Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:25:52.367Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:25:52.373Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:25:52.495Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:25:52.495Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:25:52.496Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:25:52.496Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:26:28.185Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:26:28.189Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:26:28.190Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:26:28.196Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:26:28.317Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:26:28.318Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:26:28.318Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:26:28.318Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:26:56.902Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:26:56.905Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:26:56.906Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:26:56.913Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:26:57.034Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:26:57.035Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:26:57.036Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:26:57.037Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:33:56.601Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:33:56.604Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:33:56.605Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:33:56.610Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:33:56.730Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:33:56.730Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:33:56.731Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:33:56.731Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:36:46.890Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:36:46.894Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:36:46.895Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:36:46.902Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:36:47.026Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:36:47.027Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:36:47.028Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:36:47.029Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:38:31.331Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:38:31.334Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:38:31.335Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:38:31.340Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:38:31.461Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:38:31.461Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:38:31.462Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:38:31.462Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:39:02.584Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:39:02.587Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:39:02.587Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:39:02.593Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:39:02.713Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:39:02.714Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:39:02.714Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:39:02.715Z"}
+{"level":"info","message":"Template method not found, checking for WebComponent.html [required] and WebComponent.css [optional] files.","timestamp":"2018-09-09T19:40:42.612Z"}
+{"level":"info","message":"HTML file (./WebComponent.html) for the component found.","timestamp":"2018-09-09T19:40:42.615Z"}
+{"level":"info","message":"CSS file (./WebComponent.css) for the component found.","timestamp":"2018-09-09T19:40:42.615Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:40:42.621Z"}
+{"level":"info","message":"Template method not found, checking for Hello.html [required] and Hello.css [optional] files.","timestamp":"2018-09-09T19:40:42.743Z"}
+{"level":"info","message":"HTML file (./Hello.html) for the component found.","timestamp":"2018-09-09T19:40:42.743Z"}
+{"level":"info","message":"Optional ./Hello.css not found, so neglecting css file.","timestamp":"2018-09-09T19:40:42.743Z"}
+{"level":"info","message":"Completed creation of template method for the component.","timestamp":"2018-09-09T19:40:42.744Z"}

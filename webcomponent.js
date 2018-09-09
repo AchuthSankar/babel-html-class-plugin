@@ -9,8 +9,16 @@ class WebComponent extends HTMLElement {
         if(this.attachShadow) {
             this.attachShadow({mode: 'open'})
         }
-        let node=new DOMParser().parseFromString(this.constructor.template, "text/html").querySelector("body").childNodes[0]
-        this.shadowRoot.appendChild(node)
+        console.log(this.constructor.template)
+        let nodes=new DOMParser()
+        .parseFromString(this.constructor.template, "text/html")
+        .querySelector("body")
+        .childNodes
+        console.log(nodes.length)
+        nodes.forEach(node=>{
+            console.log(node)
+            this.shadowRoot.appendChild(node)
+        })
         this.shadowRoot.appendChild(new Hello())
     }   
 }

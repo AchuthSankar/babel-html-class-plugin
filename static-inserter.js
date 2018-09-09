@@ -43,14 +43,17 @@ module.exports = function(babel) {
     var t = babel.types;
     
     function prepareHTMLFunction(className) {
-        let content=''
-        content+=readHtml(className)
+        let content=readHtml(className)
+        let css=''
         try {
-        content+=readCss(className)
+        css=readCss(className)
         } catch (err) {
             logger.log('info', `Optional ./${className}.css not found, so neglecting css file.`)    
         }
-        let stringLiteral=t.stringLiteral(content)
+        let stringLiteral=t.stringLiteral(`
+        ${content}
+        ${css}
+        `)
         let returnStatement=t.returnStatement(stringLiteral)
         let blockStatement=t.blockStatement([returnStatement])
         let classMethod=t.classMethod("get", t.identifier("template"), [], blockStatement, false, true)
